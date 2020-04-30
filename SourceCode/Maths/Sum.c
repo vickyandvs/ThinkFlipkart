@@ -2,12 +2,8 @@
 
 
 int sub(int a,int b)
-{	
-	int r=a-b;
-	return r;
-
-
-
+{
+	return ( a-b);
 }
 // Function added in testing 
 int mul(int a)
