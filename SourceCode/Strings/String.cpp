@@ -4,5 +4,6 @@
 int main()
 {
 	cout<<"HEllo c++";
+	cout<<"BYE";
 
 }
