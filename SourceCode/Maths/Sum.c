@@ -1,8 +1,10 @@
 #include<stdio.h>
 
+
 int sub(int a,int b)
-{
-	return a-b;
+{	
+	int r=a-b;
+	return r;
 
 
 
